@@ -21,7 +21,7 @@ I'm a junior developer. He graduated from IT courses at the «GOIT Аcademy», m
 ![Flutter](https://img.shields.io/badge/Webpack-AFEEEE??style=for-the-badge&logo=Webpack&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/Sass-FF69B4??style=for-the-badge&logo=Sass&logoColor=ffffff)
 
-# The most interesting team projects in which I participated
+## The most interesting team projects in which I participated
 [![Flutter](https://img.shields.io/badge/IceCream-project-0A66C2?style=flat-square&logo=github&logoColor=ffffff)](https://yuriipohorilets.github.io/icecream-project-01/)
 [![Flutter](https://img.shields.io/badge/Filmoteka-project-0A66C2?style=flat-square&logo=github&logoColor=ffffff)](https://bulatovatati.github.io/my__filmoteka/)
 [![Flutter](https://img.shields.io/badge/FindPet-project-0A66C2?style=flat-square&logo=github&logoColor=ffffff)](https://kirill-filonchuk.github.io/pet_team02/)
