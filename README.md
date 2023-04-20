@@ -2,7 +2,7 @@
 
 ## Hello everybody!
 
-I'm a junior developer. He graduated from IT courses at the «GOIT Аcademy», majoring in Front-End eveloper. Looking for a full time job. I always honestly and diligently perform the tasks assigned to me. I want to work in a friendly and pleasant team.
+I'm a junior developer. He graduated from IT courses at the «GOIT Аcademy», majoring in Front-End eveloper. I always honestly and diligently perform the tasks assigned to me. I want to work in a friendly and pleasant team.
 
 
 
@@ -13,9 +13,24 @@ I'm a junior developer. He graduated from IT courses at the «GOIT Аcademy», m
 ![Flutter](https://img.shields.io/badge/git.-000000??style=for-the-badge&logo=git&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/{react}-008080??style=for-the-badge&logo=react&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/{redux}-00FFFF??style=for-the-badge&logo=redux&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/{node}-00FF00??style=for-the-badge&logo=node.js&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/{node}-006400??style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/figma-FF00FF??style=for-the-badge&logo=figma&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/CorelDraw-008000??style=for-the-badge&logo=c&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/CorelDraw-01280??style=for-the-badge&logo=c&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/npm-red??style=for-the-badge&logo=npm&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/MongoDB-009900??style=for-the-badge&logo=MongoDB&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/Webpack-AFEEEE??style=for-the-badge&logo=Webpack&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/Sass-FF69B4??style=for-the-badge&logo=Sass&logoColor=ffffff)
 
-## Follow me: 
-[![Flutter](https://img.shields.io/badge/linkedin-0A66C2??style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kolesnyk-oleksii--936512258)
+# The most interesting team projects in which I participated
+[![Flutter](https://img.shields.io/badge/IceCream-project-0A66C2?style=flat-square&logo=github&logoColor=ffffff)](https://yuriipohorilets.github.io/icecream-project-01/)
+[![Flutter](https://img.shields.io/badge/Filmoteka-project-0A66C2?style=flat-square&logo=github&logoColor=ffffff)](https://bulatovatati.github.io/my__filmoteka/)
+[![Flutter](https://img.shields.io/badge/FindPet-project-0A66C2?style=flat-square&logo=github&logoColor=ffffff)](https://kirill-filonchuk.github.io/pet_team02/)
+
+## Сontact me: 
+[![Flutter](https://img.shields.io/badge/linkedin-000FFF?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kolesnyk-oleksii--936512258)
+[![Flutter](https://img.shields.io/badge/ukr.net-00FF00?style=flat-square&logo=mail.ru&logoColor=ffffff)](kolesnik26@ukr.net)
+[![Flutter](https://img.shields.io/badge/telegram-blue?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/kolesnyk26)
+[![Flutter](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Oleksii26)
+[![Flutter](https://img.shields.io/badge/Twitter-1F90FF?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Aleksej69958004)
+
+
