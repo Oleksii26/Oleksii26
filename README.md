@@ -6,7 +6,7 @@ I'm a junior developer. He graduated from IT courses at the «GOIT Аcademy», m
 
 
 
-Languages and Tools
+## Languages and Tools
 ![Flutter](https://img.shields.io/badge/<HTML5>-orange??style=for-the-badge&logo=html5&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/<CSS>-blue??style=for-the-badge&logo=css3&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/{JS}-green??style=for-the-badge&logo=javascript&logoColor=ffffff)
@@ -17,4 +17,5 @@ Languages and Tools
 ![Flutter](https://img.shields.io/badge/figma-FF00FF??style=for-the-badge&logo=figma&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/CorelDraw-008000??style=for-the-badge&logo=c&logoColor=ffffff)
 
-Follow me:
+## Follow me: 
+[![Flutter](https://img.shields.io/badge/linkedin-0A66C2??style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kolesnyk-oleksii--936512258)
