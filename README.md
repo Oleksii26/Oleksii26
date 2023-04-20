@@ -1,8 +1,10 @@
 ![Header](https://github.com/Oleksii26/Oleksii26/blob/main/assets/code.jpeg)
 
-## I'm a junior developer. He graduated from IT courses at the «GOIT Аcademy», majoring in Front-End eveloper. Looking for a full time job. I always honestly and diligently perform the tasks assigned to me. I want to work in a friendly and pleasant team.
+## Hello everybody!
 
-Hello everybody
+I'm a junior developer. He graduated from IT courses at the «GOIT Аcademy», majoring in Front-End eveloper. Looking for a full time job. I always honestly and diligently perform the tasks assigned to me. I want to work in a friendly and pleasant team.
+
+
 
 Languages and Tools
 ![Flutter](https://img.shields.io/badge/<HTML5>-orange??style=for-the-badge&logo=html5&logoColor=ffffff)
