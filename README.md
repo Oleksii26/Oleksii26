@@ -1,4 +1,4 @@
-![Header](https://github.com/Oleksii26/Oleksii26/blob/main/assets/it.jpeg)
+![Header](https://github.com/Oleksii26/Oleksii26/blob/main/assets/header.jpeg)
 
 About me
 
