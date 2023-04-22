@@ -28,7 +28,7 @@ I'm a junior developer. He graduated from IT courses at the «GOIT Аcademy», m
 
 ## Сontact me: 
 [![Flutter](https://img.shields.io/badge/linkedin-000FFF?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/kolesnyk-oleksii--936512258)&#8195;
-[![Flutter](https://img.shields.io/badge/ukr.net-00FF00?style=flat-square&logo=mail.ru&logoColor=ffffff)](kolesnik26@ukr.net)&#8195;
+![Flutter](https://img.shields.io/badge/kolesnik26@ukr.net-00FF00?style=flat-square&logoColor=ffffff)&#8195;
 [![Flutter](https://img.shields.io/badge/telegram-blue?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/kolesnyk26)&#8195;
 [![Flutter](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Oleksii26)&#8195;
 [![Flutter](https://img.shields.io/badge/Twitter-1F90FF?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Aleksej69958004)
