@@ -33,4 +33,5 @@ I'm a junior developer. He graduated from IT courses at the «GOIT Аcademy», m
 [![Flutter](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Oleksii26)&#8195;
 [![Flutter](https://img.shields.io/badge/Twitter-1F90FF?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/Aleksej69958004)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oleksii26&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
