@@ -2,7 +2,13 @@
 
 ## Hello everybody!
 
-I'm a junior developer. He graduated from IT courses at the «GOIT Аcademy», majoring in Front-End eveloper. I always honestly and diligently perform the tasks assigned to me. I want to work in a friendly and pleasant team.
+👋 Hi, I'm Oleksii — a passionate Frontend Developer dedicated to crafting modern, responsive, and user-friendly web interfaces.
+
+💻 I specialize in JavaScript, TypeScript, React, and building scalable front-end architectures.
+🎯 My focus is on performance, accessibility, and clean, maintainable code.
+🚀 Always eager to learn and contribute to impactful projects.
+
+Let's build something great together!
 
 
 
